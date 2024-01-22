@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xq0oYGE9ccnekhNI6V/A6s0TeZMXBeDqIuNrMTm8cnuTZBPtUFlOkkezkDOtxUQVEcapyjJ9SyMyaWOe105/ig==",
+  "success": true,
+  "projectFilePath": "/home/sapok/Documents/VSC/C#/BinaryClock/BinaryClock.csproj",
+  "expectedPackageFiles": [
+    "/home/sapok/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
